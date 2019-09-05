@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClubCerveceros</string>
+    <string name="title_activity_content_reference">ContentReferenceActivity</string>
+    <string name="hint_username">User name</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_form_login">Dont not account ?</string>
+    <string name="click_hear">Click here</string>
+    <string name="hint_user_account">Name</string>
+    <string name="hint_username_email_account">email</string>
+    <string name="hint_username_account">User</string>
+    <string name="hint_password_account">Password</string>
+    <string name="hint_confirm_password_account">Confirm password</string>
+    <string name="text_button_joinus">Join us</string>
+    <string name="toolbar_tittle_createaccount">Create account</string>
+</resources>

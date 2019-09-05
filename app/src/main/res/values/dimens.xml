@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="padding_vertical_top">200dp</dimen>
+    <dimen name="edittext_textsize_login">15dp</dimen>
+    <dimen name="textsize_dont_have_account">18dp</dimen>
+    <dimen name="vertical_form_account">18dp</dimen>
+    <dimen name="cardview_height">200dp</dimen>
+    <dimen name="cardview_corner">2dp</dimen>
+    <dimen name="margin_button_cardview">18dp</dimen>
+</resources>

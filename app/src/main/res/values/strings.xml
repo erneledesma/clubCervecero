@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClubCerveceros</string>
+    <string name="title_activity_content_reference">ContentReferenceActivity</string>
+    <string name="hint_username">Nombre Usuario</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_form_login">No tienes cuenta ?</string>
+    <string name="click_hear">Ingresa aquí</string>
+    <string name="hint_user_account">Nombre</string>
+    <string name="hint_username_email_account">email</string>
+    <string name="hint_username_account">Usuario</string>
+    <string name="hint_password_account">Contraseña</string>
+    <string name="hint_confirm_password_account">Confirmar Contraseña</string>
+    <string name="text_button_joinus">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+</resources>
