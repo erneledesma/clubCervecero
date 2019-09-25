@@ -8,4 +8,11 @@
     <dimen name="cardview_height">200dp</dimen>
     <dimen name="cardview_corner">2dp</dimen>
     <dimen name="margin_button_cardview">18dp</dimen>
+    <dimen name="padding_vertical_card">18dp</dimen>
+    <dimen name="textsize_cardview">25dp</dimen>
+    <dimen name="textsizefirstword">15sp</dimen>
+    <dimen name="marginfirstword">5dp</dimen>
+    <dimen name="like_margintop_card">5dp</dimen>
+    <dimen name="timecard_marginleftcard">5dp</dimen>
+    <dimen name="firsword_textsize">15sp</dimen>
 </resources>

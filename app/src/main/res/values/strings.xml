@@ -13,4 +13,8 @@
     <string name="hint_confirm_password_account">Confirmar Contraseña</string>
     <string name="text_button_joinus">Unete</string>
     <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+    <string name="usernamecard">LAGASH</string>
+    <string name="firstwordday">Hace</string>
+    <string name="textday_firstword">10 días</string>
+    <string name="likenumber_card">10 me gusta</string>
 </resources>
